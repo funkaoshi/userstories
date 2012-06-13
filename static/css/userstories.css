@@ -1,0 +1,40 @@
+body {
+    padding-top: 60px;
+    url(../img/grid-18px-masked.png)
+}
+
+.container {
+    margin: 50px auto;
+    width: 860px;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+h1 em {
+    color: #FD6E8A;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li p {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+li em {
+    color: #A2122F;
+}
+
+button#add {
+    display: none;
+}
+
+#form-row {
+    margin-top: 30px;
+}
+
+
